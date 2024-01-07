@@ -225,12 +225,6 @@ class ProductGatewayImpl(private val productRepository: ProductRepository) :
 
 Nas camadas de adaptadores, as implementações dos gateways `UserGatewayImpl` e `ProductGatewayImpl` realizam operações de persistência e recuperação de usuários e produtos utilizando JPA.
 
-## Implementação de Exceções
-
-Ao revisar o código-fonte, você pode encontrar marcações `TODO` indicando áreas onde a lógica de exceção precisa ser implementada. Essas marcações são colocadas para destacar casos especiais ou situações que requerem tratamento adicional.
-
-Certifique-se de revisar regularmente a lista de `TODOs` e abordar as tarefas relacionadas à implementação de exceções para garantir que o código seja robusto e capaz de lidar com diferentes cenários.
-
 ### Lista de `TODOs` para Implementação de Exceções
 
 1. **Classe CreateUserUseCaseImpl:**

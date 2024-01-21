@@ -243,13 +243,13 @@ Nas camadas de adaptadores, as implementações dos gateways `UserGatewayImpl` e
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-projeto.git
+    git clone https://github.com/baku01/ApiGestaoProdutosUsuarios.git
     ```
 
 2. Navegue até o diretório do projeto:
 
     ```bash
-    cd seu-projeto
+    cd ApiGestaoProdutosUsuarios
     ```
 
 3. Execute o projeto:
